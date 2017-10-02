@@ -1,0 +1,901 @@
+[{
+        "id": "1",
+        "name": "Ruler's Blessing",
+        "rank": "SS",
+        "limit": "1",
+        "description": "A castle given as a prize for winning the contest, town with population 10,000 included. Its residents will live according to whatever laws and commands you issue. ",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/5/54/Ruler%27s_Blessing_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "2",
+        "name": "Patch of Forest",
+        "rank": "SS",
+        "limit": "3",
+        "description": "The entrance to the giant forest called the \"Mountain God's Garden\" where many unique endemic species live. They are all tame and friendly. ",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/e/e5/Patch_of_Forest_%28G.I_card%29_%3Dscan%3D.png/",
+        "type": "1"
+    },
+    {
+        "id": "3",
+        "name": "Path of Shore",
+        "rank": "SS",
+        "limit": "3",
+        "description": "The entrance to a cave called \"Poseidon's Cavern.\" The cave changes its path at each visit, confusing intruders.",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/b/be/Patch_of_Shore_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "4",
+        "name": "Pitcher of Eternal Water",
+        "rank": "A",
+        "limit": "17",
+        "description": "A jar from which pure, clean water (1440 L per day) continually flows.",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/3/3d/Pitcher_of_Eternal_Water_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "5",
+        "name": "Skin Care Hot Springs",
+        "rank": "A",
+        "limit": "15",
+        "description": "A hot spring that cures you of any skin condition. Bathing in it for half an hour a day gives you skin as soft and smooth as a baby's.",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/c/cf/Skin_Care_Hot_Springs_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "6",
+        "name": "Spirited Away Hollow",
+        "rank": "S",
+        "limit": "8",
+        "description": "Enter and then exit this hollow and you will be transported to a desolate location within the country. Circumstances will allow you to return to where you started without you having to spend any money.",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/1/1d/Spirited_Away_Hollow_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "7",
+        "name": "Liquor Spring",
+        "rank": "A",
+        "limit": "15",
+        "description": "Draw some of this spring's water and one hour later it will become a random alcoholic drink of exquisite taste and extraordinary quality.",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/a/a2/Liquor_Spring_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "8",
+        "name": "Pregnancy Stones",
+        "rank": "S",
+        "limit": "10",
+        "description": "Carry a stone (weighing 7 lb. each) for one month and you will get pregnant, even if you're male. You may choose the sex of the baby by the female or male stone.",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/c/cb/Pregnancy_Stones_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "9",
+        "name": "Mystery Pond",
+        "rank": "S",
+        "limit": "10",
+        "description": "Release one fish into this pond, and there will be one more fish of that type the next day. You can keep any combination of fish in this pond, even saltwater and freshwater fish together!",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/0/0c/Tree_of_Plenty_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "10",
+        "name": "Tree of Plenty",
+        "rank": "S",
+        "limit": "20",
+        "description": "A tree that bears all sorts of fruit. No matter how much you harvest, it will be full again the next day. The type and number of fruit are random.",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/0/0c/Tree_of_Plenty_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "11",
+        "name": "Golden Guidebook",
+        "rank": "A",
+        "limit": "20",
+        "description": "A travel guide that lists where and when you can meet people of the opposite sex who are your type.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/9/97/Golden_Guidebook_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "12",
+        "name": "Golden Scales",
+        "rank": "B",
+        "limit": "30",
+        "description": "When faced with a two-option choice, these scales will tell you which is better for your future.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/6/6d/Golden_Scales_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "13",
+        "name": "Golden Dictionary",
+        "rank": "S",
+        "limit": "10",
+        "description": "Each day you will find a word glowing gold. You should learn those words because they will come in handy the next day.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/6/60/Golden_Dictionary_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "14",
+        "name": "Luck Bankbook",
+        "rank": "A",
+        "limit": "20",
+        "description": "Refrain from using the little things of good luck in your daily life, and you can accumulate and convert them into cash.",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/5/54/Luck_Bankbook_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "15",
+        "name": "Connection Severing Scissors",
+        "rank": "B",
+        "limit": "22",
+        "description": "Cut a picture of someone you don't want to see with these scissors, and you will never see them again. Caution: It will take effect on everyone in the picture (except yourself).",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/5/5f/Connection_Severing_Scissors_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131203210541",
+        "type": "1"
+    },
+    {
+        "id": "16",
+        "name": "Fickle Genie",
+        "rank": "S",
+        "limit": "10",
+        "description": "This genie will grant you three wishes, but you need to suggest 1000 potential, significantly different wishes and he will choose three from among them. (No cheating by asking for different increments of money.)",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/0/01/Fickle_Genie_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "17",
+        "name": "Fairy King's Advice",
+        "rank": "S",
+        "limit": "6",
+        "description": "The Fairy King offers you gentle, apt advice on what you lack or what you should fix. The annoying thing is he appears when he wants to.",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/9/95/Fairy_King%27s_Advice_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "18",
+        "name": "Breath of Archangel",
+        "rank": "SS",
+        "limit": "3",
+        "description": "She cures one person of all wounds and ills, restoring them to perfect health. She will only appear once.",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/a/a1/Breath_of_Archangel_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "19",
+        "name": "Imp's Wink",
+        "rank": "A",
+        "limit": "18",
+        "description": "You will experience the most amazing ecstasy when she winks at you. She can appear multiple times. Be warned, it can get addictive.",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/8/86/Imp%27s_Wink_%28G.I_card%29_%3Dscan%3D.png",
+        "type": "1"
+    },
+    {
+        "id": "20",
+        "name": "Poltergeist Pillow",
+        "rank": "A",
+        "limit": "13",
+        "description": "Sleep on this pillow and your astral form will be able to wander at will, but you will turn into a real ghost if you do not return to your body within 24 hours.",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/e/ee/Poltergeist_Pillow_%28G.I_card%29_%3Dscan%3D.png/revision/latest/scale-to-width-down/48?cb=20150922084902",
+        "type": "1"
+    },
+    {
+        "id": "21",
+        "name": "Mood Clock",
+        "rank": "B",
+        "limit": "30",
+        "description": "This clock sets your current state of mind. Turn it to noon and you will maintain perfect serenity. Thus you can adjust your emotions according to the situation.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/d/d1/Mood_Clock_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131203222652",
+        "type": "1"
+    },
+    {
+        "id": "22",
+        "name": "X-Ray Goggles",
+        "rank": "B",
+        "limit": "27",
+        "description": "You can see through things. An adjustment dial allows you to set the x-ray depth. The only thing it cannot see through is a pack of spell cards from Masadora.",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/a/a5/X-Ray_Goggles_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131206155034",
+        "type": "1"
+    },
+    {
+        "id": "23",
+        "name": "Toraemon",
+        "rank": "A",
+        "limit": "22",
+        "description": "A beast on the verge of extinction, it has a habit of stuffing things in its 4-D pocket. You never know what kind of treasures it could have picked up.",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/f/fd/Toraemon_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131209225908",
+        "type": "1"
+    },
+    {
+        "id": "24",
+        "name": "Tome of a Thousand Tales",
+        "rank": "B",
+        "limit": "30",
+        "description": "A book that shows you a different story each time you open it. If you want to stay on the same story when you put it down, use the special included bookmark. ",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/2/24/Tome_of_a_Thousand_Tales_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131209230724",
+        "type": "1"
+    },
+    {
+        "id": "25",
+        "name": "Hypothetical T.V.",
+        "rank": "A",
+        "limit": "20",
+        "description": "Input a hypothetical situation with the included remote, and this TV will show you a 30-hour documentary of the possibilities. You are also able to record. ",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/a/ab/Hypothetical_T.V._%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131209231224",
+        "type": "1"
+    },
+    {
+        "id": "26",
+        "name": "Risky Dice",
+        "rank": "B",
+        "limit": "30",
+        "description": "A twenty-sided die with one skull face and 19 star faces. Great things happen when you roll a star, but rolling the skull will be bad enough to cancel out all the previous great events.",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/1/1c/Risky_Dice_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20150922084401",
+        "type": "1"
+    },
+    {
+        "id": "27",
+        "name": "Night Shift Dwarves",
+        "rank": "A",
+        "limit": "20",
+        "description": "They can do any work you can do, and they will work as long as you are asleep. They cannot do anything beyond your abilities.",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/7/78/Night_Shift_Dwarves_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20150922085215",
+        "type": "1"
+    },
+    {
+        "id": "28",
+        "name": "Book of V.I.P Passes",
+        "rank": "B",
+        "limit": "25",
+        "description": "You can go anywhere with these passes. Book of 1000.",
+        "image": "http://vignette1.wikia.nocookie.net/hunterxhunter/images/0/06/Book_of_V.I.P_Passes_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131209234347",
+        "type": "1"
+    },
+    {
+        "id": "29",
+        "name": "Capricious Remote",
+        "rank": "S",
+        "limit": "13",
+        "description": "A remote control to manipulate ten emotions someone feels toward someone else, on an intensity scale of 1-10. (You cannot control how people feel toward you.)",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/8/8b/Capricious_Remote_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131209235218",
+        "type": "1"
+    },
+    {
+        "id": "30",
+        "name": "Pre-Order Vouchers",
+        "rank": "B",
+        "limit": "27",
+        "description": "Write the name of any commercially available product on a voucher and you'll be guaranteed to get it regardless of its scarcity (You still have to pay). A book of 1000.",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/2/2c/Pre-Order_Vouchers_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131210000031",
+        "type": "1"
+    },
+    {
+        "id": "31",
+        "name": "Favor Cushion",
+        "rank": "B",
+        "limit": "21",
+        "description": "Seat someone on this cushion and he will do one thing for you, so long as it is within his capabilities.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/c/c3/Favor_Cushion_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131226170845",
+        "type": "1"
+    },
+    {
+        "id": "32",
+        "name": "Double Postcard to the Dead",
+        "rank": "S",
+        "limit": "13",
+        "description": "Address and mail this return postage-paid postcard to a deceased person, and you will get a reply the next day. A book of 1000. ",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/8/89/Double_Postcard_to_the_Dead_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131226172404",
+        "type": "1"
+    },
+    {
+        "id": "33",
+        "name": "Parrot Candy",
+        "rank": "B",
+        "limit": "30",
+        "description": "Sucking on this candy enables you to produce any voice. The effect lasts until you next ingest something. A set of 10 packs, 50 candies per pack",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/7/7c/Parrot_Candy_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131226173448",
+        "type": "1"
+    },
+    {
+        "id": "34",
+        "name": "Hormone Cookies",
+        "rank": "S",
+        "limit": "13",
+        "description": "After eating this candy, your sex will temporarily change for 24 hours. A set of 10 boxes; 20 cookies per box. ",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/7/7c/Hormone_Cookies_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131226174720",
+        "type": "1"
+    },
+    {
+        "id": "35",
+        "name": "University Survey",
+        "rank": "B",
+        "limit": "30",
+        "description": "Write various questions pertaining to yourself and give it to someone, and he will answer all questions honestly. Reusable.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/d/d7/Universal_Survey_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131226183647",
+        "type": "1"
+    },
+    {
+        "id": "36",
+        "name": "Chameleon Cat",
+        "rank": "S",
+        "limit": "6",
+        "description": "An endangered species. Once tamed, it can transform into any animal. However, its mass remains constant, so it will be a tiny elephant or a large hamster, for example. ",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/a/af/Chameleon_Cat_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20131226185524",
+        "type": "1"
+    },
+    {
+        "id": "37",
+        "name": "Recycling Room",
+        "rank": "S",
+        "limit": "10",
+        "description": "Put something broken in this room and it will be repaired as good as new 24 hours later. The door must not be opened until time is up.",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/7/7e/Recycling_Room_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140101190757",
+        "type": "1"
+    },
+    {
+        "id": "38",
+        "name": "Fledgling Athlete",
+        "rank": "B",
+        "limit": "30",
+        "description": "Warm this magic egg in your hand for three hours a day for one to ten years, and you will become a top athlete when it hatches. The stronger your desire during incubation, the sooner it will hatch.",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/e/e3/Fledgling_Athlete_%28G.I_card%29.png/revision/latest?cb=20140101193712",
+        "type": "1"
+    },
+    {
+        "id": "39",
+        "name": "Fledgling Artist",
+        "rank": "B",
+        "limit": "30",
+        "description": "Warm this magic egg in your hand for three hours a day for one to ten years, and you will become a top artist when it hatches. The stronger your desire during incubation, the sooner it will hatch.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/f/f9/Fledgling_Artist_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20150922185756",
+        "type": "1"
+    },
+    {
+        "id": "40",
+        "name": "Fledgling Politician",
+        "rank": "B",
+        "limit": "30",
+        "description": "Warm this magic egg in your hand for three hours a day for one to ten years, and you will become a top politician when it hatches. The stronger your desire during incubation, the sooner it will hatch.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/9/93/Fledgling_Politician_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140109173015",
+        "type": "1"
+    },
+    {
+        "id": "41",
+        "name": "Fledgling Musician",
+        "rank": "B",
+        "limit": "30",
+        "description": "Warm this magic egg in your hand for three hours a day for one to ten years, and you will become a top musician when it hatches. The stronger your desire during incubation, the sooner it will hatch.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/4/4a/Fledgling_Musician_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20150922185526",
+        "type": "1"
+    },
+    {
+        "id": "42",
+        "name": "Fledgling Pilot",
+        "rank": "B",
+        "limit": "30",
+        "description": "Warm this magic egg in your hand for three hours a day for one to ten years, and you will become a top pilot when it hatches. The stronger your desire during incubation, the sooner it will hatch.",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/6/6b/Fledgling_Pilot_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140120170302",
+        "type": "1"
+    },
+    {
+        "id": "43",
+        "name": "Fledgling Novelist",
+        "rank": "B",
+        "limit": "30",
+        "description": "Warm this magic egg in your hand for three hours a day for one to ten years, and you will become a top novelist when it hatches. The stronger your desire during incubation, the sooner it will hatch.",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/7/7d/Fledgling_Novelist_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140120200530",
+        "type": "1"
+    },
+    {
+        "id": "44",
+        "name": "Fledgling Gambler",
+        "rank": "B",
+        "limit": "30",
+        "description": "Warm this magic egg in your hand for three hours a day for one to ten years, and you will become a top gambler when it hatches. The stronger your desire during incubation, the sooner it will hatch.",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/8/89/Fledgling_Gambler_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140120200741",
+        "type": "1"
+    },
+    {
+        "id": "45",
+        "name": "Fledgling Actor",
+        "rank": "B",
+        "limit": "30",
+        "description": "Warm this magic egg in your hand for three hours a day for one to ten years, and you will become a top actor when it hatches. The stronger your desire during incubation, the sooner it will hatch. ",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/b/b0/Fledgling_Actor_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140120201217",
+        "type": "1"
+    },
+    {
+        "id": "46",
+        "name": "Fledgling CEO",
+        "rank": "B",
+        "limit": "30",
+        "description": "Warm this magic egg in your hand for three hours a day for one to ten years, and you will become a top CEO when it hatches. The stronger your desire during incubation, the sooner it will hatch.",
+        "image": "http://vignette2.wikia.nocookie.net/hunterxhunter/images/f/f2/Fledgling_CEO_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140120201507",
+        "type": "1"
+    },
+    {
+        "id": "47",
+        "name": "Gold Dust Girl",
+        "rank": "A",
+        "limit": "13",
+        "description": "A girl who sheds gold dust from her body—500g of gold can be harvested from her daily bath. Very shy, she rarely leaves the house.",
+        "image": "http://vignette3.wikia.nocookie.net/hunterxhunter/images/7/7d/Gold_Dust_Girl_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140120201645",
+        "type": "1"
+    },
+    {
+        "id": "48",
+        "name": "Sleeping Girl",
+        "rank": "A",
+        "limit": "11",
+        "description": "A girl who sleeps in your stead. You can be active for 24 hours without sleeping while she sleeps for you. ",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/6/67/Sleeping_Girl_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140120201856",
+        "type": "1"
+    },
+    {
+        "id": "49",
+        "name": "Aromatherapy Girl",
+        "rank": "A",
+        "limit": "15",
+        "description": "A girl who emits the most comfortable aroma for you. While she's by your side, you will be free of stress.",
+        "image": "http://vignette4.wikia.nocookie.net/hunterxhunter/images/0/0c/Aromatherapy_Girl_%28G.I_card%29_%3Dscan%3D.png/revision/latest?cb=20140120202013",
+        "type": "1"
+    },
+    {
+        "id": "50",
+        "name": "Miniature Mermaid",
+        "rank": "B",
+        "limit": "23",
+        "description": "A mermaid small enough to fit in your hand. A comfortable living environment puts her in a good mood, and she will sing with her beautiful voice.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "51",
+        "name": "Miniature Dino",
+        "rank": "A",
+        "limit": "11",
+        "description": "A dinosaur small enough to fit in your hand. This creature produces a different species of tiny dinosaur with each new generation.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "52",
+        "name": "Miniature Dragon",
+        "rank": "S",
+        "limit": "10",
+        "description": "A dragon small enough to fit in your hand. It will obey your commands, and will eventually learn to talk if raised with love.",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "53",
+        "name": "Pearl Locusts",
+        "rank": "B",
+        "limit": "30",
+        "description": "Each of these locusts has a pearl in its abdomen. An outbreak occurs once every dozen years or so.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "54",
+        "name": "King Great White Beetle",
+        "rank": "A",
+        "limit": "30",
+        "description": "It uses special pheromones to lure other insects to build a huge colony. It leaves the colony once a day for an evening stroll.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "55",
+        "name": "Millennium Butterfly",
+        "rank": "A",
+        "limit": "25",
+        "description": "A legendary insect named form the fact that the family of anyone who captures it will prosper for generations.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "56",
+        "name": "Revenge Shop\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "Report your grudges to the manager and he will retaliate for you in proportion to your grievance. Pay extra to request a more severe retaliation.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "57",
+        "name": "Perfect Memory Studio\t",
+        "rank": "B",
+        "limit": "25",
+        "description": "Specify a time and date to get a picture of yourself in the past. You may also request a sequence of photographs.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "58",
+        "name": "Hideout Realtor",
+        "rank": "A",
+        "limit": "11",
+        "description": "The agent will build a secret room just for you at a place of your choosing. However, you must not tell anyone about it or bring anybody to it.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "59",
+        "name": "Secrets Video Rental\t",
+        "rank": "A",
+        "limit": "13",
+        "description": "Rent videos of other peoples secrets. You must not show the video or discuss its contents with anyone.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "60",
+        "name": "Instant Foreign Language School\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "Spend time studying a language at this school, and you will accrue time on a timer (included). While the timer is activated and counting down, you will be fluent.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "61",
+        "name": "Long Lost Delivery\t",
+        "rank": "B",
+        "limit": "30",
+        "description": "Call the number and describe the item you lost, and it will be delivered to you the next day. It must be lost for longer than a month.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "62",
+        "name": "Vending Check-Up",
+        "rank": "A",
+        "limit": "20",
+        "description": "A full-body medical scan for just 500 J. However, the only results are \"All Clear\" or \"Anomaly Detected,\" in which case it is recommended you see a doctor.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "63",
+        "name": "Club \"You Rule\"\t",
+        "rank": "B",
+        "limit": "20",
+        "description": "Everyone in the club will do your bidding while you are there. However, one hour in the club equals a day outside.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "64",
+        "name": "Virtual Restaurant\t",
+        "rank": "B",
+        "limit": "30",
+        "description": "You can order any food you want. You will feel full, but it is only an illusion. You will be given a multivitamin as you leave.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "65",
+        "name": "Witch's Love Potion",
+        "rank": "B",
+        "limit": "30",
+        "description": "Kiss a pill and have your intended drink it, and he or she will fall in love with you. One pill lasts one week; one vial contains 500 pills.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "66",
+        "name": "Witch's Rejuvenation Potion\t",
+        "rank": "S",
+        "limit": "10",
+        "description": "Each pill makes you physically younger by one year. You will retain all knowledge and memories. Beware, as you will die if you take more than your age. One vial contains 100 pills.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "67",
+        "name": "Witch's Diet Pills",
+        "rank": "B",
+        "limit": "28",
+        "description": "Each pill makes you lose one kg. One vial contains 200 pills. Beware, as you will die if you take more than you weigh.",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "68",
+        "name": "Doyen's Growth Pills\t",
+        "rank": "B",
+        "limit": "30",
+        "description": "Each pill makes you grow one cm taller. One vial contains 100 pills. Not recommended for people under 20 years of age.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "69",
+        "name": "Doyen's Virility Pills",
+        "rank": "A",
+        "limit": "20",
+        "description": "A certain part of your anatomy will get very frisky. Both endurance and frequency are enhanced. One vial contains 500 pills.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "70",
+        "name": "Doyen's Hair Restorer\t",
+        "rank": "B",
+        "limit": "30",
+        "description": "Luxurious hair will grow wherever it is applied. Use gloves, or hair will grow on fingers and palms. One vial contains 200 ml (enough to cover ten heads).\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "71",
+        "name": "Mad Scientist's Steroids\t",
+        "rank": "A",
+        "limit": "16",
+        "description": "Get all the muscles you want without exercise. You must drink a liter a day for a week, and it tastes horrible. A seven-box set, with ten one-L bottles per box.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "72",
+        "name": "Mad Scientist's Pheromones\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "Spray on your body to attract the opposite sex. However, you cannot adjust the strength of its effect, so be careful as it may cause a proliferation of stalkers.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "73",
+        "name": "Mad Scientist's Plastic Surgery\t",
+        "rank": "A",
+        "limit": "15",
+        "description": "Scan a picture of the face you want and you will end up an exact likeness. Each surgery carries a 5% chance of failure, and a 1% chance the machine itself will break.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "74",
+        "name": "Night Jade\t",
+        "rank": "A",
+        "limit": "15",
+        "description": "A jewel \"blessed\" by the Devil. When danger is about to befall its owner, it will deflect it to someone else.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "75",
+        "name": "Sage's Aquamarine\t",
+        "rank": "A",
+        "limit": "15",
+        "description": "Its owner will have many intelligent friends and keep those friendships for their entire lives.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "76",
+        "name": "Wild Luck Alexandrite\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "Its owner will get to have once-in-a-lifetime experiences, though you cannot choose whether they're for better or for worse...\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "77",
+        "name": "Roaming Ruby\t",
+        "rank": "B",
+        "limit": "30",
+        "description": "The owner of this ruby will gain immense wealth, but will never be able to remain in the same place for more than a week.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "78",
+        "name": "Beauty Magnet Emerald\t",
+        "rank": "S",
+        "limit": "10",
+        "description": "Specialists offering beauty services will flock to its owner, who will shine with heretofore unrecognized beauty.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "79",
+        "name": "Lonely Sapphire\t",
+        "rank": "B",
+        "limit": "30",
+        "description": "The owner of this sapphire will acquire vast wealth, but in exchange will spend a lifetime alone, forsaken by friends, family, and significant others.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "80",
+        "name": "Rainbow Diamond\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "A diamond that shines in a rainbow of colors. Propose with this diamond and she is guaranteed to say \"yes.\"\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "81",
+        "name": "Levitation Stone\t",
+        "rank": "S",
+        "limit": "7",
+        "description": "A stone about one carat in size that levitates. It can levitate one person, and receives energy from sunlight.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "82",
+        "name": "Blue Planet\t",
+        "rank": "SS",
+        "limit": "5",
+        "description": "A unique blue jewel. Its composition does not correspond to any known mineral, so it was given this name to mean \"a gift from space.\"\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "83",
+        "name": "Staff of Judgment\t",
+        "rank": "A",
+        "limit": "15",
+        "description": "Raise this staff in the air while calling out the name of someone you want to punish, and calamity will befall the one of you who has committed more bad deeds, the target or yourself.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "84",
+        "name": "Sword of Truth\t",
+        "rank": "B",
+        "limit": "22",
+        "description": "Splits in two anything and anyone deceitful. In trials, it's a criminal's worst nightmare. The sword will shatter when used to cut something true, but will regenerate if stored in its scabbard for one day.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "85",
+        "name": "Paladin's Necklace\t",
+        "rank": "D",
+        "limit": "60",
+        "description": "A player wearing this will reflect curses cast upon him, and be able to undo curses placed on cards he touches.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "86",
+        "name": "Scapegoat/Sacrifice Armor\t",
+        "rank": "S",
+        "limit": "8",
+        "description": "Renders ineffective any attack by a weapon reverted from a card. Beware, as it will randomly break sometime within the first 100 attacks.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "87",
+        "name": "Quiver of Frustration\t",
+        "rank": "A",
+        "limit": "11",
+        "description": "You will be able to cast as many \"Leaves\" as you have arrows. It comes with 10 arrows, and one will be used each time you cast \"Leave.\"\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "88",
+        "name": "Shield of Faith\t",
+        "rank": "S",
+        "limit": "15",
+        "description": "The spells \"Railguide,\" \"Return,\" \"Drift,\" \"and \"Collision\" will be rendered ineffective within a radius of 20 M of the player armed with this shield.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "89",
+        "name": "Eternal Hammer\t",
+        "rank": "A",
+        "limit": "15",
+        "description": "Anyone hit with this hammer will be afflicted with one random attack spell, and cannot defend him or herself with a defensive spell. However, it will not work on someone using \"Fortress\" or \"Paladin's Necklace.\"\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "90",
+        "name": "Tax Collector's Gauntlet\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "Grants you the ability to cast \"Levy.\" However, it will destroy one random specified slot card from your binder every time. (You cannot cast it if your specified slots are empty.)\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "91",
+        "name": "Memory Helmet\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "You will never forget things you see or hear while wearing this helmet. Unfortunately, it's extremely large and heavy.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "92",
+        "name": "Plastic King\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "Recombine the parts of this 1:1 scale model kit to build any kind of vehicle. Fully functional, fuel not included.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "93",
+        "name": "Swap Ticket\t",
+        "rank": "S",
+        "limit": "7",
+        "description": "Rip the ticket and give it to someone you want to switch with, and you can live his life for 24 hours. Book of 1000.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "94",
+        "name": "Book of Life\t",
+        "rank": "B",
+        "limit": "28",
+        "description": "An encyclopedia of everyone who's been in your life since your birth, with records of conversations and memorable incidents. It may end up being tens of thousands of pages long.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "95",
+        "name": "Bandit's Blade\t",
+        "rank": "S",
+        "limit": "10",
+        "description": "A successful attack with this weapon will cast \"Rob\", \"Pick Pocket\", or \"Thief\" on the target. Not effective on someone using \"Fortress\" or \"Paladin's Necklace\".\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "96",
+        "name": "Secret Cape\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "You will be under the effect of \"Blackout Curtain\" while wearing this cape.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "97",
+        "name": "Clairvoyant Snake\t",
+        "rank": "A",
+        "limit": "12",
+        "description": "Feed it a card Rank C or above, and it will spit up a \"Clairvoyance / Sightvision\"\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "98",
+        "name": "3-D Camera\t",
+        "rank": "A",
+        "limit": "20",
+        "description": "Pictures taken with this will be developed as 3-D objects, with all textures reproduced. Make enlargements as needed.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "99",
+        "name": "Silver Dog\t",
+        "rank": "S",
+        "limit": "8",
+        "description": "An endangered species with silver fur. Mix 5g of gold into its food every day and it will excrete one kg of solid silver feces.\t",
+        "image": "",
+        "type": "1"
+    },
+    {
+        "id": "100",
+        "name": "Panda Maid\t",
+        "rank": "S",
+        "limit": "8",
+        "description": "An endangered species. Very neat and loves to cook, and each has a hobby such as sewing or gardening. They are excellent at taking care of human children.\t",
+        "image": "",
+        "type": "1"
+    }
+]

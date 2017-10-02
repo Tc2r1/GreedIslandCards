@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { CribsService } from './../services/cribs.service';
+import { CardsService } from './../services/cards.service';
 
 @Component({
   selector: 'app-add-listing-form',
@@ -8,17 +8,17 @@ import { CribsService } from './../services/cribs.service';
 })
 export class AddListingFormComponent implements OnInit {
 
-@ViewChild('newCribForm') newCribForm;
+@ViewChild('newCardForm') newCardForm;
 
-	propertyTypes: Array<String> = ['House', 'Condo', 'Duplex'];
-  constructor(public cribsService: CribsService) { }
+  propertyTypes: Array<String> = ['monster', 'spell', 'Duplex'];
+  constructor(public cardsService: CardsService) { }
 
   ngOnInit() {
   }
 
-  onCribSubmit(data): void {
+  onCardSubmit(data): void {
 
-  	this.cribsService.addCrib(data);
+      this.cardsService.addCard(data);
   }
 
 }
